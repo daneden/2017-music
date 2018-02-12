@@ -17,7 +17,7 @@ html {
 }
 
 body {
-  font: 100%/1.5 "Gill Sans";
+  font: 100%/1.5 "Gill Sans", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 a {
