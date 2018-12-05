@@ -1,6 +1,5 @@
 {
   "name": "2017-music",
-  "homepage": "https://daneden.github.io/2017-music",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
