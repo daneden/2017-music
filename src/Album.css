@@ -16,9 +16,12 @@
 }
 
 .album__cover {
-  mix-blend-mode: multiply;
   display: block;
   max-width: 100%;
+}
+
+.album:hover .album__cover {
+  mix-blend-mode: multiply;
 }
 
 .album:last-child:hover .album__cover {
